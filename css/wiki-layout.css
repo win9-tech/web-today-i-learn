@@ -13,7 +13,7 @@
 }
 
 .nav-logo {
-  font-family: "Jua", serif;
+  font-family: 'Jua', serif;
   font-size: 1.4rem;
   color: var(--primary-color);
 }
@@ -276,12 +276,12 @@ main {
   font-size: 0.9rem;
 }
 
-.comment-buttons button[type="button"] {
+.comment-buttons button[type='button'] {
   background-color: var(--primary-color);
   color: #fff;
 }
 
-.comment-buttons button[type="reset"] {
+.comment-buttons button[type='reset'] {
   background-color: #eee;
   color: #666;
 }
@@ -398,12 +398,12 @@ footer {
   font-size: 0.9rem;
 }
 
-.til-form button[type="submit"] {
+.til-form button[type='submit'] {
   background-color: var(--primary-color);
   color: #fff;
 }
 
-.til-form button[type="reset"] {
+.til-form button[type='reset'] {
   background-color: #eee;
   color: #666;
 }
