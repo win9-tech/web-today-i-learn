@@ -240,6 +240,21 @@ main {
   line-height: 1.6;
 }
 
+.til-item .delete-btn {
+  margin-top: 12px;
+  padding: 6px 12px;
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.til-item .delete-btn:hover {
+  background-color: #c0392b;
+}
+
 /* 방명록 */
 .comment-form-container form {
   display: flex;
